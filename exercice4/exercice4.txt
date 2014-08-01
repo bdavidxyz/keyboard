@@ -1,0 +1,19 @@
+goto symbol their_p40 of file bfile.js
+
+goto line 208 of file cfile.js
+
+goto line 643 of file cfile.js
+
+goto definition of function azerty()
+
+goto definition of function his_ad()
+
+open cfile.js
+
+goto symbol zer_a1 (in cfile.js)
+
+goto symbol zer_a139 (in cfile.js)
+
+goto symbol zer_h8 in project
+
+goto symbol zer_a188 in project

@@ -1,0 +1,61 @@
+first
+
+|-folderA
+  |-fileA.txt
+|-folderB
+  |-fileB.txt
+|-folderC
+  |-fileC.txt
+|-folderD
+  |-fileD.txt
+
+then
+
+|-folderA
+  |-fileA.txt
+  |-fileB.txt
+  |-fileC.txt
+  |-fileD.txt
+|-folderB
+|-folderC
+|-folderD
+
+then
+
+|-folderA
+  |-newfileA.txt
+  |-newfileB.txt
+  |-newfileC.txt
+  |-newfileD.txt
+|-folderB
+|-folderC
+|-folderD
+
+then
+
+|-folderA
+  |-newfileA.txt
+  |-newfileB.txt
+  |-newfileC.txt
+  |-newfileD.txt
+|-folderB
+|-folderC
+|-folderD
+
+then
+
+|-folderA
+|-folderB
+  |-newfileA.txt
+  |-newfileB.txt
+  |-newfileC.txt
+  |-newfileD.txt
+|-folderC
+|-folderD
+
+then
+
+|-folderA
+|-folderB
+|-folderC
+|-folderD

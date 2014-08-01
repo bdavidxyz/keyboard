@@ -1,0 +1,15 @@
+create file fileA.txt in new folderA
+create file fileB.txt in new folderB
+create file fileC.txt in new folderC
+create file fileD.txt in new folderD
+
+at the end of exercice :
+
+|-folderA
+  |-fileA.txt
+|-folderB
+  |-fileB.txt
+|-folderC
+  |-fileC.txt
+|-folderD
+  |-fileD.txt

@@ -1,0 +1,21 @@
+/*
+ * Split view, open zer.txt, put cursor in the upleft corner.  
+ * Replace by "blabla" for each instruction
+ * first, copy "findbackup" folder as "find" folder.
+ *  
+ * 1 min : 20/20 -> -1 point every 3 seconds 
+ */
+
+find/replace only the 3rd occurence of "ipsum" in file zer.txt
+
+find/replace 2 first occurences of "lorem"
+
+find/replace all occurence of "occaecat"
+
+find/replace all occurence of "sans" in folder "find"
+
+find/replace first occurence of "portrait" in folder "find"
+
+find/replace all occurence of "r-eprehenderit2" in project (without -)
+
+find/replace two first occurence of "U-t2" in  project (without -)
