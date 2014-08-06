@@ -1,0 +1,15 @@
+/*
+* Follow best practices for a shortcuts :
+*  - customization
+*  - easy for brain to remind
+*  - easy for hand to access given the starting position of fingers
+*  - similar action means similar shortcuts
+*/
+
+move cursor to the left fast : alt + →
+
+move cursor to the right fast : alt + ←
+
+move cursor down fast : alt + ↓
+
+move cursor up  fast : alt + ↑

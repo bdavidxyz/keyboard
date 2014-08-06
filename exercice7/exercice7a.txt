@@ -1,0 +1,22 @@
+/*
+
+* Follow best practices for a shortcuts :
+*  - customization
+*  - easy for brain to remind
+*  - easy for hand to access given the starting position of fingers
+*  - similar action means similar shortcuts
+*/
+
+delete line
+
+delete line above
+
+delete line under
+
+delete to end
+
+delete to beginning
+
+delete word forward
+
+delete word before

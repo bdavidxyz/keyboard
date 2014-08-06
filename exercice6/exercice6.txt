@@ -1,0 +1,3 @@
+write a macro that goes to end of line and bind it to a shortcut
+write a plugin that display ILoveDaWeb and bind it to a shortcut
+write a snippet that display <html><body>default web page</body></html> and bind it to a shortcut
