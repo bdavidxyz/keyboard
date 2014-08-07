@@ -1,5 +1,4 @@
 /*
-
 * Follow best practices for a shortcuts :
 *  - customization
 *  - easy for brain to remind
@@ -7,16 +6,20 @@
 *  - similar action means similar shortcuts
 */
 
+/* warning here : the cursor must stay at same column when deleting line */
+FFFFFFFFFFFFFFF
 delete line
 
+FFFFFFFFFFFFFFF
 delete line above
 
 delete line under
+FFFFFFFFFFFFFFF
 
-delete to end
+delete to endFFFFFFFFFFFFFFF
 
-delete to beginning
+FFFFFFFFFFFFFFFdelete to beginning
 
-delete word forward
+delete word FFF forward
 
-delete word before
+delete FFF word before

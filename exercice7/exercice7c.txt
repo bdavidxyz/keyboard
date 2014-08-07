@@ -1,0 +1,116 @@
+  <html>
+  <!--move cursor to POINTN and follow instruction-->
+    <body>
+    <ul>
+      <li>a</li>
+      <li>b</li>
+      <li>c</li>
+      <li>d</li>
+      <li>e</li>
+      <p>
+    </ul>
+      <!--this comment is old
+          and out-of-date
+          please remove it
+      -->
+        <div>POINT1 remove right and above <!--this comment is old-->
+        </div>
+      </p>
+      <ul>
+      <li>azer</li>
+      <li>er</li>
+      <li>ert</li>
+      <li>zert</li>
+      </ul>
+
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>ssss</div><div>
+      <div>sssss</div><!--this comment is old-->POINT2 remove left</div>
+      <ul>
+      <li>azer</li>
+      <li>er</li>
+      <li>ert</li>
+      <li>zert</li>
+      </ul>
+
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <ul>
+      <li>azer</li>
+      <li>er</li>
+      <li>ert</li>
+      <li>zert</li>
+      </ul>
+
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <ul>
+      <li>azer</li>
+      <li>er</li>
+      <li>ert</li>
+      <li>zert</li>
+      </ul>
+
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>POINT3 remove remove duplicated word "remove"</div>
+
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <ul>
+      <li>azer</li>
+      <li>er</li>
+      <li>ert</li>
+      <li>zert</li>
+      </ul>
+
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>
+      <div>sssss</div>remove remove POINT4 word on left and lines below</div>
+      <!--this comment is old
+          and out-of-date
+          please remove it
+          and use the command
+          that delete a line under
+      -->
+    </body>
+  </html>
