@@ -1,5 +1,7 @@
   <html>
-  <!--move cursor to POINTN and follow instruction-->
+  <!--
+  start with cursor on top-left
+  move cursor to POINTN and follow instruction-->
     <body>
     <ul>
       <li>a</li>
@@ -7,13 +9,14 @@
       <li>c</li>
       <li>d</li>
       <li>e</li>
+      <li>f</li>
       <p>
     </ul>
       <!--this comment is old
           and out-of-date
           please remove it
       -->
-        <div>POINT1 remove right and above <!--this comment is old-->
+        <div>POINT1 remove above and right <!--this comment is old-->
         </div>
       </p>
       <ul>
