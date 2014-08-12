@@ -34,17 +34,6 @@ then
 then
 
 |-folderA
-  |-newfileA.txt
-  |-newfileB.txt
-  |-newfileC.txt
-  |-newfileD.txt
-|-folderB
-|-folderC
-|-folderD
-
-then
-
-|-folderA
 |-folderB
   |-newfileA.txt
   |-newfileB.txt
