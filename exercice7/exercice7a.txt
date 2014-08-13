@@ -7,19 +7,27 @@
 */
 
 /* warning here : the cursor must stay at same column when deleting line */
+
+// good shorcut :
 FFFFFFFFFFFFFFF
 delete line
 
+// good shortcut :
 FFFFFFFFFFFFFFF
 delete line above
 
+// good shortcut :
 delete line under
 FFFFFFFFFFFFFFF
 
+// good shorcut :
 delete to endFFFFFFFFFFFFFFF
 
+// good shorcut :
 FFFFFFFFFFFFFFFdelete to beginning
 
+// good shorcut :
 delete word FFF forward
 
+// good shorcut :
 delete FFF word before
