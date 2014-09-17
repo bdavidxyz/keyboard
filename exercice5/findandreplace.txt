@@ -15,7 +15,3 @@ find/replace all occurence of "occaecat"
 find/replace all occurence of "sans" in folder "find"
 
 find/replace first occurence of "portrait" in folder "find"
-
-find/replace all occurence of "r-eprehenderit2" in project (without -)
-
-find/replace two first occurence of "U-t2" in  project (without -)
