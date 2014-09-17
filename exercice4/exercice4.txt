@@ -10,10 +10,5 @@ goto definition of function his_ad()
 
 open cfile.js
 
-goto symbol zer_a1 (in cfile.js)
+goto symbol zer_h8 
 
-goto symbol zer_a139 (in cfile.js)
-
-goto symbol zer_h8 in project
-
-goto symbol zer_a188 in project
