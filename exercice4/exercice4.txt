@@ -10,5 +10,8 @@ goto definition of function his_ad()
 
 open cfile.js
 
-goto symbol zer_h8 
+goto symbol zer_h8 (in project) 
 
+jump back in history (twice)
+
+go forward in history (twice)

@@ -3,11 +3,10 @@
  * Start a counter and type the setence below in.
  * Stop the counter.
  *
- *
- * Mark : max 20 points if 15 s, 19 if 16s, 18 if 17s, etc
- *
  * Divide score by 2 if any of these :
+ *  
  *   - you have made a mistake
  *   - you looked at sth else than the screen
  *   - you used less than 9 fingers
+ *   - it took you more than 30 sec 
  */
