@@ -3,7 +3,6 @@
  * Replace by "blabla" for each instruction
  * first, copy "findbackup" folder as "find" folder.
  *  
- * 1 min : 20/20 -> -1 point every 3 seconds 
  */
 
 find/replace only the 3rd occurence of "ipsum" in file zer.txt

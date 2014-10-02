@@ -1,6 +1,5 @@
 /*
 * go to matching pair
-* recommended shortcut (mac azerty) : super+<+super+m
 */
 .aclass {
   background: #000;
@@ -10,11 +9,14 @@
 
 
 /*
-* go to css declaration
-* open html file and
+* go to css declaration (open html-walkthrough)
 */
 .bclass {
   background: #000;
   color: red;
   display: inline-block;
 }
+
+/*
+* pick color of aclass
+*/
